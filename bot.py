@@ -14,4 +14,4 @@ class GateKeepBot(commands.Bot):
 
 bot = GateKeepBot()
 bot.load_extension('cogs.gatekeep')
-bot.run('ODA1MzI2NTEwNjEyNDE0NTA0.YBZQwg.rc8PvgbqCNOnMozxAyw4ujUukmQ')
+bot.run('')
